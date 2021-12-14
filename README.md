@@ -1,5 +1,5 @@
 # Welcome to Velo Kickstart
-- [**Project Steps**](PROJECT_STEPS.md) - Detailed instruction for each step of the todo app project
+- [**Project Steps**](STEPS.md) - Detailed instruction for each step of the todo app project
 
 ## Abstract
 
